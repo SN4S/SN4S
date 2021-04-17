@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-Who i am?
+## Who i am?
 - My name is Oleksandr, but you can call me Alex.
 - I'm 16 years old.
 - I'm student.
