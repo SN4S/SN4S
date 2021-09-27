@@ -1,7 +1,7 @@
 # Hi there 👋
 ### Who i am?
 - My name is Oleksandr, but you can call me Alex.
-- I'm 16 years old.
+- I'm 17 years old.
 - I'm student.
 - Maybe i know C++.
 - Bruh
