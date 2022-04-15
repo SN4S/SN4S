@@ -11,5 +11,6 @@
 ### My Devices:
 - Google Pixel XL (marlin) | PixelExperience 11
 - Lenovo A Plus (A1010a20) | PixelExperience 9
-- Acer Aspire E1-530G
-- Acer Aspire E1-522
+- Lenovo IdeaPad Gaming 3 15ACH6 | Windows 11 Home | KDE Neon 5.23
+- Acer Aspire E1-530G | Windows 10 Home
+- Acer Aspire E1-522 | Windows 7 Ultimate
