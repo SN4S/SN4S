@@ -10,7 +10,7 @@
 
 ### My Devices:
 - Google Pixel XL (marlin) | PixelExperience 11
-- Lenovo A Plus (A1010a20) | Stock ROM
-- Lenovo IdeaPad Gaming 3 15ACH6 | Windows 11 Home | KDE Neon 5.24
-- Acer Aspire E1-530G | Windows 10 Home
-- Acer Aspire E1-522 | Windows 8.1
+- Lenovo A Plus (A1010a20) | LineageOS 13
+- Lenovo IdeaPad Gaming 3 15ACH6 | Windows 11 Home | KDE Neon 5.27
+- Acer Aspire E1-530G | Xubuntu 22.04
+- Acer Aspire E1-522 | Windows 7 Home Premium
