@@ -1,7 +1,7 @@
 # Hi there 👋
 ### Who am i?
 - My name is Oleksandr.
-- I'm 19 years old.
+- I'm 20 years old.
 - I'm student.
 - I know C++, PHP, Java?.
 - Bruh
@@ -12,6 +12,6 @@
 - Google Pixel 7a (lynx) | Rooted
 - Google Pixel XL (marlin) | Dead
 - Lenovo A Plus (A1010a20) | LineageOS 13
-- Lenovo IdeaPad Gaming 3 15ACH6 | Windows 11 Home | KDE Neon 6.1 | MacOS Ventura
+- Lenovo IdeaPad Gaming 3 15ACH6 | Windows 11 Home | KDE Neon 6.2 | MacOS Ventura
 - Acer Aspire E1-530G | Fedora 39
 - Acer Aspire E1-522 | Windows 8.1
